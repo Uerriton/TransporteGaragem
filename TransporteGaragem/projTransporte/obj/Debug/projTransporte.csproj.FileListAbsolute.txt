@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\projTransporte\projTransporte\bin\Debug\projTransporte.exe.config
+C:\Users\Lenovo\source\repos\projTransporte\projTransporte\bin\Debug\projTransporte.exe
+C:\Users\Lenovo\source\repos\projTransporte\projTransporte\bin\Debug\projTransporte.pdb
+C:\Users\Lenovo\source\repos\projTransporte\projTransporte\obj\Debug\projTransporte.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\projTransporte\projTransporte\obj\Debug\projTransporte.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\projTransporte\projTransporte\obj\Debug\projTransporte.exe
+C:\Users\Lenovo\source\repos\projTransporte\projTransporte\obj\Debug\projTransporte.pdb
+C:\Users\Uérriton\Desktop\TransporteGaragem\projTransporte\bin\Debug\projTransporte.exe.config
+C:\Users\Uérriton\Desktop\TransporteGaragem\projTransporte\bin\Debug\projTransporte.exe
+C:\Users\Uérriton\Desktop\TransporteGaragem\projTransporte\bin\Debug\projTransporte.pdb
+C:\Users\Uérriton\Desktop\TransporteGaragem\projTransporte\obj\Debug\projTransporte.csprojAssemblyReference.cache
+C:\Users\Uérriton\Desktop\TransporteGaragem\projTransporte\obj\Debug\projTransporte.csproj.CoreCompileInputs.cache
+C:\Users\Uérriton\Desktop\TransporteGaragem\projTransporte\obj\Debug\projTransporte.exe
+C:\Users\Uérriton\Desktop\TransporteGaragem\projTransporte\obj\Debug\projTransporte.pdb
